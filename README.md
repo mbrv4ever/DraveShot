@@ -2,6 +2,12 @@
 
 Schermafbeeldingen en schermopnames met annotaties.
 
+## 🎬 Uitlegvideo
+
+[![Uitlegvideo DraveShot](https://dravenlock.nl/video/DraveShot.jpg)](https://dravenlock.nl/video/DraveShot.mp4)
+
+[▶ Bekijk de uitlegvideo](https://dravenlock.nl/video/DraveShot.mp4) (ongeveer 2 minuten, Nederlands)
+
 *Categorie: Tools en kantoor · versie 0.1.10*
 
 ## ⬇️ Downloaden (Windows, geen Python nodig)
